@@ -10,8 +10,8 @@ Full-stack engineer in Taiwan. I build and write about security, AI-assisted dev
 - [Agent Plugins](https://blog.shdennlin.com/posts/agent-plugins/)
 - [Cloudflare Pages and Bun install mismatch](https://blog.shdennlin.com/posts/cloudflare-pages-bun-install-mismatch/)
 - [Dotfiles](https://blog.shdennlin.com/posts/dotfiles/)
-- [My Claude Code plugin setup](https://blog.shdennlin.com/posts/my-claude-code-plugin-setup/)
-- [Now](https://blog.shdennlin.com/posts/now/)
+- [My Claude Code setup](https://blog.shdennlin.com/posts/my-claude-code-setup/)
+- [Debugging webmention.io setup](https://blog.shdennlin.com/posts/webmention-io-setup-debugging/)
 <!-- BLOG-POST-LIST:END -->
 
 More at [blog.shdennlin.com](https://blog.shdennlin.com).
