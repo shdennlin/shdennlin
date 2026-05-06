@@ -2,6 +2,8 @@
 
 Full-stack engineer in Taiwan. I build and write about security, AI-assisted development, and agentic workflows — most of it shows up either here on GitHub or on [my blog](https://blog.shdennlin.com).
 
+**Currently:** [blog.shdennlin.com/now](https://blog.shdennlin.com/now)
+
 ## Recent writing
 
 <!-- BLOG-POST-LIST:START -->
