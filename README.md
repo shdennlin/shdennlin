@@ -19,3 +19,9 @@ More at [blog.shdennlin.com](https://blog.shdennlin.com).
 ## Reach me
 
 [Email](mailto:shawndennislin@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shawn-lin-1582b9201/) · [Blog](https://blog.shdennlin.com)
+
+## Support
+
+If something I built saved you time, you can support it here:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-support-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/shdennlin) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/shdennlin)
